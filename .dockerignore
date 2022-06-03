@@ -1,0 +1,10 @@
+.github
+.gradle
+.idea
+build
+
+.gitignore
+config.yml
+renovate.json
+LICENSE
+README.md

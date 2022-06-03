@@ -1,0 +1,14 @@
+  #        #   #
+  #        #   # ##########   ######
+########## #   #         #        #
+  #     #  #   #        #        #
+  #           #      # #         #
+  #          #        #     ##########
+   ######  ##          #
+
+> ~=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=~
+> Running Noel v{{VERSION}} ({{COMMIT_HASH}}) | Built at {{BUILT_AT}}
+> Licensed in GPL-3.0 | Kotlin: {{KOTLIN_VER}} | JVM: {{JVM_VER}}
+> Made by Noel (August#5820) - cutie@floofy.dev
+> Report bugs at -> https://github.com/auguwu/Noel/issues
+> ~=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=~
